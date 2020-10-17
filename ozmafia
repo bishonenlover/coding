@@ -1,0 +1,84 @@
+
+<style>
+img{
+	max-width:100%;
+	height:auto;
+	display:block;
+}
+ 
+body{
+	margin:0;
+	font:1rem/1.5'Roboto';
+		text-align:justify;
+}
+.anime-content{
+	width:calc(100% - 2rem);
+	margin:0 auto;
+	max-width:700px;
+	display:grid;
+	grid-gap:1rem;
+}
+.anime-date{
+	text-align:center;
+}
+.detail{
+	font-weight:bold;
+	display:inline-block;
+}
+ 
+.anime-bottom{
+	padding:1rem;
+/* 	display:grid;
+	place-items:center;
+	grid-gap:1rem; */
+	display:flex;
+}
+.video{
+	position:relative;
+	width:100%;
+	height:0;
+	padding-bottom:56.25%;
+}
+.video iframe{
+position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+@media(min-width:500px){
+	.anime-info{
+		display:grid;
+		grid-template-columns:max-content 1fr;
+		grid-gap:1rem;
+	}
+	.anime-date{
+		grid-column:1 / -1;
+	}
+	.anime-cover{
+max-width:200px;
+	}
+}
+</style>
+<body>
+<div class="anime-content">
+	<div class="anime-info">
+		<div class="anime-date">14 de Janeiro de 2017</div>
+		<div class="anime-cover"><img src="https://66.media.tumblr.com/fb6861ad642e6a3e66c7c90ad860f30b/tumblr_inline_ojru9cGeOM1rzgxjy_540.jpg" /> </div>
+		<div class="anime-details">
+			<div class="detail">Nome:</div> Ozmafia!!.<br />
+			<div class="detail">Gêneros:</div>Chibi, Vida Escolar.<br />
+			<div class="detail">Ano:</div> 2016<br />
+			<div class="detail">Episódios:</div> 12 x 4 min<br />
+			<div class="detail">Sinopse:</div> Tendo sido transferido para a Academia de Oz, Scarlet encontra-se já em apuros. Os três meninos que o salvam em seu tempo de necessidade são chamados Caramia, Kyrie e Axel, seus professores.
+		</div>
+		<!--more-->
+	</div>
+	<div class="anime-post"><img src="https://66.media.tumblr.com/56c1094c09171788d4e3662cf86ea731/tumblr_inline_ojruhtWQib1rzgxjy_540.png" /> Pelo que entendi, <i>Ozmafia</i> é uma série de animes para complementar um jogo Otome de reverse harém. FELIZMENTE não tem nada do gênero e FELIZMENTE não havia conflito amoroso e tudo girava em torno da vida de <i>Scarlet</i>, o novo aluno e sua relação com seus novos professores. <img src="https://66.media.tumblr.com/f5c5ecf876f704417a0a3118f5f0fd91/tumblr_inline_ojruomHLu01rzgxjy_540.jpg" /> Decidi ver esse anime com quatro minutos de duração por episódio porque nunca havia assistido nada chibi então fiquei super curiosa e maravilhada porque tudo estava tão bonito e fofo que não resisti. Achei curiosa a referência do famoso <i>Mágico de Oz</i>. Cada professor era um personagem da famosa estória, <i>O Leão</i>, <i>O Espantalho</i> e <i>O Homem de Lata</i>. Houve também referência ao <i>Robin Hood</i>, <i>Hansel e Gretel </i>(João e Maria) dos <i>Irmãos Grimm</i> e <i>Dorian Grey</i>. <img src="https://66.media.tumblr.com/5a93b386344adcb7dc495f9d4ab94b87/tumblr_inline_ojrupeLNNo1rzgxjy_540.jpg" /> Obviamente não tem muito enredo ou conflito maior, mas é tudo tão colorido, brilhante e fofo que nem notei a falta de estória [risos]. Além de que os personagens são tão bonitinhos, fofinhos e cativantes que não consegui parar de ver. Os que mais gostei foram <i>Axel</i> e <i>Caesar</i>. <img src="https://66.media.tumblr.com/1d9f44c79dc4308e0d2cf2b7f445e737/tumblr_inline_ojrurzjO1z1rzgxjy_500.gif" /> É um anime que dá pra ver rapidinho e é tudo tão bonito e fofo que duvido que alguém consiga parar uma vez que comece a ver, eu não consegui, e quando terminei fiquei até com vontade de baixar tudo para poder printar 👉👈 </div>
+	<div class="anime-bottom">
+		<div class="anime-stars"><a href="https://bishonenlover-reviews.blogspot.com/search/label/4">★ ★ ★ ★ ☆</a></div>
+		<div class="tags"><a href="https://bishonenlover-reviews.blogspot.com/search/label/ozmafia" target="_blank">#ozmafia</a> <a href="https://bishonenlover-reviews.blogspot.com/search/label/escolar" target="_blank">#escolar</a> </div>
+		<div class="watch"><a href="https://bishonenlover-reviews.blogspot.com/p/onde-assistir-animes.html" target="_blank">Assistir</a></div>
+	</div>
+</div>
+</body>
