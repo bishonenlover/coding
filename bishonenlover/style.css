@@ -326,6 +326,7 @@ h2 {
 
 .show-tag-box {
     display: flex;
+    width: 100%;
 }
 
 .to-left,
