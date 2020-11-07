@@ -445,7 +445,6 @@ a.current_page:hover {
     flex-wrap: wrap;
     gap: 1rem;
     width: 80%;
-    margin: auto;
     height: 90vh;
     overflow: scroll;
     position: relative;
